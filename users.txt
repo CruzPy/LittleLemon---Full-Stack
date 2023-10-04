@@ -1,0 +1,4 @@
+Admin account
+Username: admin
+Password: admin
+01a693272a238946b2d829ab0a50f6787a53f23a

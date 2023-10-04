@@ -1,7 +1,6 @@
-# LittleLemon---Full-Stack
+# LittleLemon Setup
 
-Hi welcome to my final project for Meta's Backend Development Course.
-To run this on your windows machine, first clone the project to your desired directory and follow the instructions below:
+Clone the project to your desired directory and follow the instructions below:
 
 1. Activate the virtual environment: 'pipenv shell'
 2. Install neccessary dependencies 'pipenv install'
